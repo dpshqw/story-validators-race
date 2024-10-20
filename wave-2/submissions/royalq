@@ -2,9 +2,9 @@
 
 ‼️ Important! Before you start doing tasks, create a data.json file at the path `wave-2/submissions/validator_moniker/data.json`, where `validator_moniker` is the name of your validator.</br>
 </br>
-`validator_address` - your validator address (valoper)</br>
-`discord_id` - your discord id</br>
-`discord_username` - your discord username</br>
+`validator_address` - story1dag0el44nmcj9k63rw2pjl8cjrgjkecljhksju (valoper)</br>
+`discord_id` - cryptonotes#8309</br>
+`discord_username` - cryptonotes</br>
 </br>
 In `data.json`, fill in the contents:
 ```
@@ -16,3 +16,4 @@ In `data.json`, fill in the contents:
 ```
 After that, create a PR with the name: `Information file <validator_moniker>`
 After successful completion of the task, test tokens will be sent to your EVM validator address.
+
